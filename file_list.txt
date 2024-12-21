@@ -1,0 +1,8 @@
+file 'C:\Users\Phoen\Desktop\Projects\Programming\Python\Img2Beat\output_segments\final_segment_0.mp4'
+file 'C:\Users\Phoen\Desktop\Projects\Programming\Python\Img2Beat\output_segments\final_segment_1.mp4'
+file 'C:\Users\Phoen\Desktop\Projects\Programming\Python\Img2Beat\output_segments\final_segment_2.mp4'
+file 'C:\Users\Phoen\Desktop\Projects\Programming\Python\Img2Beat\output_segments\final_segment_3.mp4'
+file 'C:\Users\Phoen\Desktop\Projects\Programming\Python\Img2Beat\output_segments\final_segment_4.mp4'
+file 'C:\Users\Phoen\Desktop\Projects\Programming\Python\Img2Beat\output_segments\final_segment_5.mp4'
+file 'C:\Users\Phoen\Desktop\Projects\Programming\Python\Img2Beat\output_segments\final_segment_6.mp4'
+file 'C:\Users\Phoen\Desktop\Projects\Programming\Python\Img2Beat\output_segments\final_segment_7.mp4'
